@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wangui-quinnie
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning C, Python
+- 🌱 I’m currently learning C, Python,SQL, HTML, CSS
 - 💞️ I’m intrigued by tech innovations
 
 <!---
