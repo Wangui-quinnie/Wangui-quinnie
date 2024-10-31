@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Wangui-quinnie
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning C, Python, SQL, HTML, CSS, Typescript, C++, Visual basic, Javascript 
+- 👋 Hi, I’m Winnie
+- 🌱 I’m currently learning C, Python, SQL, HTML, CSS, Typescript, C++, Visual basic, Javascript, Java
 - 💞️ I’m intrigued by tech innovations
 
 <!---
